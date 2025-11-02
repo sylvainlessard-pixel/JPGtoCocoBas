@@ -1,7 +1,9 @@
 # JPGtoCocoBas
-Application that converts an image into basic code for Coco computer
+### Application that converts an image into basic code for Coco computer
 
 JPGToCocoBas is a Windows application that converts a JPG image into Basic code for Coco 1, 2, 3, MC-10, and Alice. The generated Basic code isn't perfect. I'm not a Coco expert; I'm just a developer looking for a hobby to experiment with code. The application converts the resolution and finds the closest color based on the selected palette and resolution. It also lets you get an idea of ​​how an image might look when imported into Coco.
+
+### Application qui convertit une image en code de basic pour ordinateur Coco.
 
 JPGToCocoBas est une application windows qui permet de convertir une image (.JPG) en Code Basic pour Coco 1,2,3, MC-10 et Alice. Le code basic géner n'est pas parfait. Je ne suis pas un spécialiste en coco. Je suis seulement un Dev qui cherchait un passe temps pour expérimenter du code. L'application convertie la résolution et va cherche la couleur la plus proche selon palette et résolution sélectionné. Permet aussi d'avoir une idée comment peut résemble une image transporté sur coco.
 
