@@ -56,4 +56,7 @@ Pour les résolutions de type HSCREEN je recommende l'utilisation de l'applicati
 
 https://colorcomputerarchive.com/repo/Disks/Programming/512K%20BASIC%20%28Microcom%20Software%29%20%28Coco%203%29.zip
 
+### MacOS
 
+For MacOS users, the application works very well with Wine. / 
+Pour les utilisateurs de MacOS, L'application fonctionne très bien avec Wine.
