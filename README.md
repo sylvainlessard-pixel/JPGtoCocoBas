@@ -63,6 +63,14 @@ Pour les utilisateurs de MacOS, L'application fonctionne très bien avec Wine.
 
 ### Example / Exemple
 
+Original image / Image original
+
 ![orignial](https://github.com/sylvainlessard-pixel/JPGtoCocoBas/blob/main/exemple/Image_orginal1.jpeg "orignial")
+
+Coco 3 image / Image en coco 3 (320x192 (Coco 3) 16/64 color HSCREEN 2 CMP)
+
+![new image](https://github.com/sylvainlessard-pixel/JPGtoCocoBas/blob/main/exemple/Image1_320.jpg "new image")
+
+
 
 
