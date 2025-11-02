@@ -60,3 +60,9 @@ https://colorcomputerarchive.com/repo/Disks/Programming/512K%20BASIC%20%28Microc
 
 For MacOS users, the application works very well with Wine. / 
 Pour les utilisateurs de MacOS, L'application fonctionne très bien avec Wine.
+
+### Example / Exemple
+
+! [orignial] (/exemple/Image_orginal1.jpg)
+
+
