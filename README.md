@@ -1,8 +1,11 @@
 # JPGtoCocoBas
 Application that converts an image into basic code for Coco computer
 
+JPGToCocoBas is a Windows application that converts a JPG image into Basic code for Coco 1, 2, 3, MC-10, and Alice. The generated Basic code isn't perfect. I'm not a Coco expert; I'm just a developer looking for a hobby to experiment with code. The application converts the resolution and finds the closest color based on the selected palette and resolution. It also lets you get an idea of ​​how an image might look when imported into Coco.
+
 JPGToCocoBas est une application windows qui permet de convertir une image (.JPG) en Code Basic pour Coco 1,2,3, MC-10 et Alice. Le code basic géner n'est pas parfait. Je ne suis pas un spécialiste en coco. Je suis seulement un Dev qui cherchait un passe temps pour expérimenter du code. L'application convertie la résolution et va cherche la couleur la plus proche selon palette et résolution sélectionné. Permet aussi d'avoir une idée comment peut résemble une image transporté sur coco.
 
+Here is the list of supported resolutions:/
 ­­­Voici la liste des résolutions supportés:
 
 > - Nothing (Original)
@@ -45,6 +48,10 @@ JPGToCocoBas est une application windows qui permet de convertir une image (.JPG
 > - 640x192 (Coco 3) 4/64 color HSCREEN 4 CMP GRAY (4 level) 
 > - 640x192 (Coco 3) 4/64 color HSCREEN 4 RGB GRAY (4 level) 
 
-Pour les résolutions de type HSCREEN je recommende l'utilisation de l'application "512K BASIC (Microcom Software)" https://colorcomputerarchive.com/repo/Disks/Programming/512K%20BASIC%20%28Microcom%20Software%29%20%28Coco%203%29.zip
+For SCREEN-type resolutions, I recommend using the "512K BASIC (Microcom Software)" application.:/
+
+Pour les résolutions de type HSCREEN je recommende l'utilisation de l'application "512K BASIC (Microcom Software)" :
+
+https://colorcomputerarchive.com/repo/Disks/Programming/512K%20BASIC%20%28Microcom%20Software%29%20%28Coco%203%29.zip
 
 
